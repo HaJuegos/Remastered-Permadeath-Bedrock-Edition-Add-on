@@ -1,10 +1,19 @@
-REMASTERED Permadeath Bedrock Edition Add-on Version 8.1.2 Beta By Ha Juegos
+REMASTERED Permadeath Bedrock Edition Add-on Version 8.1.3 Beta Hotfix By Ha Juegos
 
 ********[ IMPORTANTE ]*******
 
 Este add-on es experimental y puede contener errores inesperados o por el propio el juego, si tienes algun problema que reportar, entra en mi server de discord y dimelo: https://discord.gg/p6a7tqVJxn
 
 ****************************
+
+VERSION 8.1.3 Hotfix:
+
+--Problemas Temporales:
+-El sistema del totem/medalla es experimental!, asi que puede que tengas algunos errores con este, pero por el momento es usable.
+
+--Cambios:
+-Se adapto el add-on a la 1.19 de minecraft ya que no se podia ni instalar en mundos de forma manual por el gametest viejo, proximamente la 9.0 del add-on con mas cosas!
+
 
 VERSION 8.1.2:
 
