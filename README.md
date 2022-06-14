@@ -36,6 +36,6 @@ El famoso plugin de Java Edition, traido a Bedrock Edition. Con todas sus mecani
 ## OPCIONES EXPERIMENTALES
 
 Este add-on requiere de estas opciones experimentales activas en tu mundo para poder funcionan de forma correcta, Procura tenerlo activo.
-![opcionesexperimentales](https://user-images.githubusercontent.com/102632956/166130395-71ee8bff-b8fc-4125-b70b-6491c14690b2.png)
+![opcionesexperimentales](https://cdn.discordapp.com/attachments/964653057390546954/986383842061467668/oldui.png)
   
-![experimentalfeatures](https://user-images.githubusercontent.com/102632956/166130397-97f91a8f-519b-4a39-888f-4be589788d2c.png)
+![experimentalfeatures](https://cdn.discordapp.com/attachments/964653057390546954/986383842287955988/buttonen.png)
